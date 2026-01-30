@@ -170,7 +170,7 @@ export default function Home() {
           >
             <div className="aspect-square rounded-2xl overflow-hidden border border-border bg-muted relative group">
               <img 
-                src="/public/images/josean7_.png" 
+                src="images/josean7_.jpg"  
                 alt="Josean Nascimento Simões" 
                 className="object-cover w-full h-full transition-transform duration-700 group-hover:scale-105"
               />
