@@ -39,9 +39,8 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # O Vite geralmente gera a pasta 'dist'. 
-          # Se o seu projeto for diferente, verifique se a pasta é 'dist' ou 'dist/public'
-          path: './dist'
+          # Ajustado para bater com o outDir do seu vite.config.ts
+          path: './dist/public'
 
       - name: Deploy to GitHub Pages
         id: deployment
