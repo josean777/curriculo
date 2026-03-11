@@ -331,7 +331,7 @@ export default function Home() {
         <div className="container flex flex-col md:flex-row justify-between items-center gap-8">
           <div className="space-y-2 text-center md:text-left">
             <span className="font-display text-xl font-bold tracking-tighter text-primary">JN.</span>
-            <p className="text-sm text-muted-foreground">© 2025 Josean Nascimento Simões. Todos os direitos reservados.</p>
+            <p className="text-sm text-muted-foreground">© 2026 Josean Nascimento Simões. Todos os direitos reservados.</p>
           </div>
           <div className="flex gap-6">
             <a href="https://www.linkedin.com/in/josean-nascimento-sim%C3%B5es-5a8a5b2a8/" className="text-muted-foreground hover:text-primary transition-colors" aria-label="LinkedIn">
